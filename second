@@ -1,0 +1,26 @@
+<html>
+  <head>
+     <meta charset="utf-8" />
+   <meta name="viewport" content="width=100%, initial-scale=1" />
+    <title>花的简历</title>
+  </head>
+  <body>
+    <h3 id='title'>姓名：xin</h3>
+    <p id='subtitle'>一个爱做梦的女孩</p>
+    <h4>初级前端学习者</h4>
+    <h4><a href='http://www.geegle.com/'>我的网址</a></h4>
+    <h4><a href ='mailto:1234566@qq.com'>我的邮箱</a></h4>
+    <form>
+      <fieldset>
+        <legend>项目经验</legend>
+        <p>经验balabala<p>
+      </fieldset>
+      <h3>爱好</h3>
+      <ol type='a'>
+        <li>弹钢琴</li>
+        <li>跑步</li>
+        <li>看电影</li>
+      </ol>
+      </body>
+      </html>
+      
